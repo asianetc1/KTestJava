@@ -52,7 +52,7 @@ import javafx.stage.Stage;
 	        series2.getData().add(new XYChart.Data(7.4, 114.1));
 	        series2.getData().add(new XYChart.Data(3.5, 323));
 	        series2.getData().add(new XYChart.Data(9.3, 29.9));
-	        series2.getData().add(new XYChart.Data(8.1, 287.4));
+	        series2.getData().add(new XYChart.Data(8.1, 267.4));
 	 
 	        sc.getData().addAll(series1, series2);
 	        Scene scene  = new Scene(sc, 500, 400);
