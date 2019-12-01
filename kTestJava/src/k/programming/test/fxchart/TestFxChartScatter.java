@@ -32,7 +32,7 @@ import javafx.stage.Stage;
 	        series1.getData().add(new XYChart.Data(1.2, 26.4));
 	        series1.getData().add(new XYChart.Data(4.4, 114.4));
 	        series1.getData().add(new XYChart.Data(8.5, 323));
-	        series1.getData().add(new XYChart.Data(6.9, 289.8));
+	        series1.getData().add(new XYChart.Data(6.9, 219.8));
 	        series1.getData().add(new XYChart.Data(9.9, 287.1));
 	        series1.getData().add(new XYChart.Data(0.9, -9));
 	        series1.getData().add(new XYChart.Data(3.2, 150.8));
